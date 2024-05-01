@@ -1,2 +1,2 @@
 # PRODIGY_WD_TASK
- All tasks of prodigy
+ All tasks of prodigy internship
