@@ -1,5 +1,5 @@
-# PRODIGY_WD_TASK
- All tasks of prodigy
+# PRODIGY_WD_01
+
 Task-01
 
 Responsive Landing Page 

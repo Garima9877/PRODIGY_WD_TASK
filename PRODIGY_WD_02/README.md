@@ -1,5 +1,5 @@
-# PRODIGY_WD_TASK
- All tasks of prodigy
+# PRODIGY_WD_02
+
 Task-02
 Stopwatch
 
